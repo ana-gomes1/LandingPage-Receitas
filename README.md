@@ -4,8 +4,10 @@ Protótipo de site de receitas para desktop e notebook, onde é mostrado os ingr
 <img width="1920" height="1080" alt="projeto-sitereceita" src="https://github.com/user-attachments/assets/4fa9beb0-7e77-4d00-82c6-4417802b9e7b" />
 
 # Linguagens
-<p>As linguagens utilizadas para a realização deste projeto foram:</p>
-<img width="300" alt="html" src="https://github.com/user-attachments/assets/cbe603f0-b839-4767-aee7-510cea38d16a" />
+As linguagens utilizadas para a realização deste projeto foram:
+<ul><li>HTML</li></ul>
+<img width="300" alt="html" src="https://github.com/user-attachments/assets/cbe603f0-b839-4767-aee7-510cea38d16a" /><br>
+<ul><li>CSS</li></ul>
 <img width="250" alt="css" src="https://github.com/user-attachments/assets/faee2425-098d-42b4-a866-2736c9138647" />
 
 # Objetivo
